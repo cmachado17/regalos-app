@@ -1,0 +1,18 @@
+body{
+    background-image: url('./styles/images/fondo-navidad.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+.header{
+    font-size: 50px;
+}
+
+.titulo-borde{
+    -webkit-text-stroke: 1px black;
+    color: whitesmoke;
+}
+
+.formulario{
+    background-color: rgba(255, 255, 255, 0.8) ;
+}
